@@ -1,0 +1,1897 @@
+{
+  "Decitabine": [
+    "DNA methyltransferase, DNMT1, DNMT3A, DNMT3B",
+    "Apoptosis, cell cycle regulation, DNA damage response, epigenetic regulation",
+    "Myelodysplastic syndromes, acute myeloid leukemia"
+  ],
+  "Methotrexate": [
+    "Dihydrofolate reductase, folate receptor",
+    "Cell cycle regulation, DNA synthesis, apoptosis",
+    "Rheumatoid arthritis, psoriasis, leukemia, lymphoma"
+  ],
+  "Delamanid": [
+    "Mycolic acid synthase I",
+    "Cell wall biosynthesis, oxidative phosphorylation, fatty acid biosynthesis",
+    "Multidrug-resistant tuberculosis"
+  ],
+  "Demeclocycline": [
+    "30S ribosomal subunit",
+    "Protein synthesis, cell growth, and division",
+    "Siadh, neurogenic diabetes insipidus, inappropriate antidiuretic hormone secretion"
+  ],
+  "5-Fluorouracil": [
+    "Thymidylate synthase, dihydrofolate reductase",
+    "DNA synthesis, cell cycle regulation, apoptosis",
+    "Colorectal cancer, breast cancer, stomach cancer, pancreatic cancer"
+  ],
+  "LB-100": [
+    "Serine/threonine protein phosphatase 2A (PP2A)",
+    "Cell cycle regulation, apoptosis, and DNA damage response",
+    "Acute myeloid leukemia, solid tumors"
+  ],
+  "Glycyrrhizic acid": [
+    "11\u03b2-Hydroxysteroid dehydrogenase, Toll-like receptors, NF-\u03baB",
+    "Inflammation, immune response, glucocorticoid metabolism",
+    "Peptic ulcer, hepatitis, gastritis"
+  ],
+  "(S)-Crizotinib": [
+    "MET, ROS1, ALK",
+    "PI3K/AKT, MAPK/ERK, JAK/STAT",
+    "Non-small cell lung cancer, ROS1-positive non-small cell lung cancer, ALK-positive non-small cell lung cancer"
+  ],
+  "Nafamostat (mesylate)": [
+    "Serine proteases, factor VIIa, factor Xa, thrombin, complement system, plasma kallikrein",
+    "Coagulation cascade, complement system, kinin-kallikrein system, fibrinolysis",
+    "Disseminated intravascular coagulation, acute pancreatitis, shock, extracorporeal circulation"
+  ],
+  "Diammonium Glycyrrhizinate": [
+    "Toll-like receptors, glucocorticoid receptors, nuclear factor-kappa B",
+    "Inflammatory response, immune response, apoptosis",
+    "Viral hepatitis, liver fibrosis, gastric ulcers"
+  ],
+  "Vinblastine (sulfate)": [
+    "Tubulin",
+    "Cell cycle arrest, apoptosis, angiogenesis inhibition",
+    "Hodgkin's lymphoma, non-Hodgkin's lymphoma, testicular cancer, breast cancer, choriocarcinoma"
+  ],
+  "AZD-7648": [
+    "CDK1, CDK2, CDK4, CDK6",
+    "Cell cycle progression, DNA replication, G1/S transition",
+    "Breast cancer, non-small cell lung cancer, ovarian cancer"
+  ],
+  "Dinaciclib": [
+    "CDK1, CDK2, CDK5, CDK9",
+    "Cell cycle regulation, Apoptosis, DNA replication",
+    "None"
+  ],
+  "Erlotinib": [
+    "Epidermal Growth Factor Receptor (EGFR)",
+    "PI3K/AKT, MAPK/ERK, JAK/STAT",
+    "Non-small cell lung cancer, Pancreatic cancer"
+  ],
+  "Almonertinib (hydrochloride)": [
+    "MET, AXL, DDR2",
+    "PI3K/AKT, MAPK/ERK, JAK/STAT",
+    "Non-small cell lung cancer"
+  ],
+  "Daptomycin": [
+    "Bacterial cell membrane",
+    "Bacterial cell division, membrane potential, cell wall synthesis",
+    "Complicated skin and skin structure infections, bacteremia, right-sided infective endocarditis, Staphylococcus aureus bloodstream infections"
+  ],
+  "Sulfatinib": [
+    "VEGFR, FGFR, CSF1R",
+    "Angiogenesis, tumor growth, immune response",
+    "Thyroid cancer, pancreatic neuroendocrine tumors"
+  ],
+  "Tolmetin": [
+    "COX-1, COX-2",
+    "Prostaglandin synthesis, Inflammatory response, Pain perception",
+    "Osteoarthritis, Rheumatoid arthritis, Juvenile rheumatoid arthritis"
+  ],
+  "Idarubicin (hydrochloride)": [
+    "DNA topoisomerase II, DNA",
+    "Apoptosis, cell cycle arrest, DNA damage response",
+    "Acute myeloid leukemia, breast cancer, lymphomas"
+  ],
+  "Dexamethasone": [
+    "Glucocorticoid receptor",
+    "Inflammation, immune response, apoptosis, cell growth",
+    "Cerebral edema, inflammatory conditions, immune system disorders, cancer, respiratory distress syndrome"
+  ],
+  "Loperamide (hydrochloride)": [
+    "Mu-opioid receptors",
+    "Intestinal motility pathways, gut secretion pathways, opioid receptor signaling pathways",
+    "Diarrhea, acute diarrhea, chronic diarrhea, traveler's diarrhea, diarrhea associated with inflammatory bowel disease"
+  ],
+  "Fostamatinib (disodium hexahydrate)": [
+    "Syk (spleen tyrosine kinase)",
+    "B-cell receptor signaling, immune cell activation, and inflammation",
+    "Chronic immune thrombocytopenia in adults who have had an insufficient response to a previous treatment"
+  ],
+  "APTO-253": [
+    "c-Myc",
+    "Cell cycle regulation, apoptosis, transcriptional regulation",
+    "Acute myeloid leukemia, myelodysplastic syndrome"
+  ],
+  "Quinidine (15% dihydroquinidine)": [
+    "Sodium channels, potassium channels, hERG channels",
+    "Cardiac action potential, atrioventricular node conduction, ventricular repolarization",
+    "Atrial fibrillation, atrial flutter, ventricular tachycardia, paroxysmal supraventricular tachycardia"
+  ],
+  "Lapatinib ditosylate": [
+    "Epidermal Growth Factor Receptor, Human Epidermal Growth Factor Receptor 2",
+    "PI3K/AKT, MAPK/ERK, cell cycle regulation",
+    "Breast cancer"
+  ],
+  "Pioglitazone": [
+    "Peroxisome proliferator-activated receptor gamma (PPAR\u03b3)",
+    "Insulin signaling pathway, glucose metabolism, lipid metabolism",
+    "Type 2 diabetes mellitus"
+  ],
+  "Nimesulide": [
+    "COX-2, COX-1",
+    "Inflammation, pain, prostaglandin synthesis, cell adhesion",
+    "Pain, inflammation, fever, osteoarthritis, rheumatoid arthritis"
+  ],
+  "Paclitaxel": [
+    "Beta-tubulin",
+    "Cell cycle arrest, apoptosis, angiogenesis inhibition",
+    "Breast cancer, ovarian cancer, non-small cell lung cancer, AIDS-related Kaposi's sarcoma, pancreatic cancer"
+  ],
+  "Lenalidomide (hemihydrate)": [
+    "CRBN, IKZF1, IKZF3, CK1\u03b1",
+    "NF-\u03baB, cell cycle regulation, apoptosis, immune response",
+    "Multiple myeloma, myelodysplastic syndromes, mantle cell lymphoma"
+  ],
+  "AT7519": [
+    "CDK1, CDK2, CDK3, CDK4, CDK5, CDK6, CDK7, CDK9",
+    "Cell cycle progression, DNA replication, transcription, apoptosis",
+    "None"
+  ],
+  "Drospirenone": [
+    "Progesterone receptor, mineralocorticoid receptor, androgen receptor",
+    "Hypothalamic-pituitary-ovarian axis, renin-angiotensin-aldosterone system, estrogen-related pathways",
+    "Premenstrual dysphoric disorder, contraception, premenstrual syndrome, polycystic ovary syndrome, acne, hirsutism"
+  ],
+  "Gefitinib": [
+    "Epidermal Growth Factor Receptor (EGFR)",
+    "PI3K/AKT, MAPK/ERK, JAK/STAT",
+    "Non-small cell lung cancer"
+  ],
+  "ETC-206": [
+    "GPR40, S1P1",
+    "Insulin secretion, Glucose metabolism, Lipid metabolism",
+    "Type 2 diabetes mellitus"
+  ],
+  "Binimetinib": [
+    "MEK1, MEK2",
+    "MAPK/ERK signaling, PI3K/AKT signaling, cell cycle regulation",
+    "Adult patients with unresectable or metastatic melanoma with a BRAF V600E or V600K mutation, in combination with encorafenib"
+  ],
+  "Relugolix": [
+    "Gonadotropin-releasing hormone receptor",
+    "Hypothalamic-pituitary-gonadal axis, follicle-stimulating hormone regulation, luteinizing hormone regulation",
+    "Uterine fibroids, endometriosis, prostate cancer"
+  ],
+  "Resveratrol": [
+    "SIRT1, AMPK, NF-\u03baB, PI3K/Akt",
+    "Inflammation, apoptosis, cell cycle regulation, insulin signaling",
+    "None"
+  ],
+  "MK-8353": [
+    "ERK1/2, MEK1/2",
+    "MAPK signaling, cell proliferation, apoptosis",
+    "Melanoma, non-small cell lung cancer, thyroid cancer"
+  ],
+  "Belumosudil (mesylate)": [
+    "ROCK1, ROCK2",
+    "PI3K/AKT, MAPK/ERK, NF-\u03baB",
+    "Chronic graft-versus-host disease"
+  ],
+  "Canagliflozin (hemihydrate)": [
+    "Sodium-glucose cotransporter 2 (SGLT2)",
+    "Glucose reabsorption, insulin secretion, glucagon secretion, ketone production",
+    "Type 2 diabetes mellitus, heart failure, chronic kidney disease"
+  ],
+  "Radotinib": [
+    "BCR-ABL, c-KIT, PDGFR, SRC",
+    "JAK/STAT, PI3K/AKT, MAPK/ERK",
+    "Chronic myeloid leukemia, acute lymphoblastic leukemia"
+  ],
+  "Valdecoxib": [
+    "COX-2 enzyme",
+    "Prostaglandin synthesis, pain signaling, inflammation",
+    "Osteoarthritis, rheumatoid arthritis, menstrual cramps, management of acute pain"
+  ],
+  "Ouabain (Octahydrate)": [
+    "Na+/K+-ATPase",
+    "Cardiac glycoside signaling, ion transport, cellular respiration",
+    "Atrial fibrillation, atrial flutter, congestive heart failure"
+  ],
+  "Oxaliplatin": [
+    "DNA",
+    "Apoptosis, cell cycle arrest, DNA damage response",
+    "Colorectal cancer, adjuvant treatment of stage III colon cancer, advanced colorectal cancer"
+  ],
+  "Apalutamide": [
+    "Androgen receptor",
+    "Cell cycle regulation, apoptosis, DNA repair, angiogenesis",
+    "Non-metastatic castration-resistant prostate cancer, metastatic castration-sensitive prostate cancer"
+  ],
+  "Rapamycin": [
+    "mTOR",
+    "PI3K/AKT, MAPK/ERK, HIF-1\u03b1",
+    "Renal cell carcinoma, lymphangioleiomyomatosis, prophylaxis of organ transplant rejection"
+  ],
+  "Altretamine": [
+    "DNA",
+    "Apoptosis, DNA damage response, cell cycle regulation",
+    "Ovarian cancer"
+  ],
+  "Cinacalcet": [
+    "Calcimimetic receptor, calcium-sensing receptor",
+    "Phospholipase C pathway, mitogen-activated protein kinase pathway, adenylate cyclase pathway",
+    "Secondary hyperparathyroidism, hypercalcemia in parathyroid carcinoma, hypercalcemia in patients with chronic kidney disease on dialysis"
+  ],
+  "Afatinib": [
+    "EGFR, HER2, HER4",
+    "PI3K/AKT, RAS/RAF/MAPK, JAK/STAT",
+    "Non-small cell lung cancer, squamous non-small cell lung cancer"
+  ],
+  "Methylthiouracil": [
+    "Thyroid peroxidase, deiodinases",
+    "Thyroid hormone synthesis, hypothalamic-pituitary-thyroid axis",
+    "Hyperthyroidism, Graves' disease"
+  ],
+  "Irinotecan (hydrochloride)": [
+    "Topoisomerase I",
+    "DNA replication, cell cycle arrest, apoptosis",
+    "Colorectal cancer, small cell lung cancer"
+  ],
+  "Clotrimazole": [
+    "Lanosterol 14\u03b1-demethylase",
+    "Ergosterol biosynthesis, cell membrane integrity, fungal cell growth",
+    "Vaginal yeast infections, cutaneous candidiasis, tinea pedis, tinea cruris, tinea corporis"
+  ],
+  "Erythromycin": [
+    "50S ribosomal subunit",
+    "Protein synthesis, cell growth, and division",
+    "Respiratory tract infections, skin and soft tissue infections, genital infections, Legionnaires' disease"
+  ],
+  "Raltitrexed": [
+    "Thymidylate synthase",
+    "DNA synthesis, folate metabolism, cell cycle regulation",
+    "Colorectal cancer, pancreatic cancer"
+  ],
+  "Infigratinib": [
+    "FGFR1, FGFR2, FGFR3",
+    "MAPK signaling, PI3K/AKT signaling, JAK/STAT signaling",
+    "Cholangiocarcinoma, Urothelial carcinoma"
+  ],
+  "Cytarabine (hydrochloride)": [
+    "DNA polymerase, ribonucleotide reductase, DNA primase",
+    "Nucleotide metabolism, DNA synthesis, cell cycle regulation",
+    "Acute myeloid leukemia, acute lymphoblastic leukemia, chronic myeloid leukemia, non-Hodgkin's lymphoma, meningitis"
+  ],
+  "Daidzin": [
+    "Daidzin binds to acetaldehyde dehydrogenase 2, aldehyde dehydrogenase, mitochondrial aldehyde dehydrogenase, cytochrome P450 2E1",
+    "Alcohol dependence pathway, dopamine signaling pathway, glutamate signaling pathway, neuroinflammation pathway",
+    "Alcohol dependence, alcohol withdrawal syndrome, alcoholic liver disease"
+  ],
+  "Rutin (trihydrate)": [
+    "Cyclooxygenase, Lipoxygenase, Phosphodiesterase, Protein kinase C",
+    "Inflammation, Oxidative stress, Cell signaling, Vascular tone regulation",
+    "Capillary fragility, Edema, Varicose veins, Venous insufficiency"
+  ],
+  "AZD1390": [
+    "ATM kinase",
+    "DNA damage response, cell cycle checkpoint regulation, apoptosis",
+    "Treatment of unresectable or metastatic malignant solid tumors with ATM deficiency"
+  ],
+  "Posaconazole": [
+    "Lanosterol 14\u03b1-demethylase",
+    "Ergosterol biosynthesis, cell membrane integrity",
+    "Invasive aspergillosis, oropharyngeal candidiasis, candidemia"
+  ],
+  "Fumaric acid": [
+    "Nrf2, NF-\u03baB, STAT1, STAT3",
+    "Antioxidant response, Inflammation, Cell proliferation",
+    "Psoriasis, Multiple sclerosis"
+  ],
+  "Ixazomib": [
+    "Proteasome",
+    "NF-\u03baB signaling, cell cycle regulation, apoptosis",
+    "Multiple myeloma"
+  ],
+  "Busulfan": [
+    "DNA",
+    "Cell cycle regulation, DNA replication and repair, apoptosis",
+    "Chronic myelogenous leukemia, bone marrow ablation prior to hematopoietic stem cell transplantation"
+  ],
+  "Mifepristone": [
+    "Progesterone receptor, glucocorticoid receptor",
+    "Apoptosis, cell cycle regulation, cortisol signaling",
+    "Cushing's syndrome, abortion, pregnancy termination"
+  ],
+  "Phenylephrine (hydrochloride)": [
+    "Alpha-1 adrenergic receptors",
+    "Vasoconstriction, blood pressure regulation, smooth muscle contraction",
+    "Nasal decongestion, ophthalmic procedures, vascular failure, shock"
+  ],
+  "Pimozide": [
+    "Dopamine D2 and D3 receptors, serotonin 5-HT2A receptors",
+    "Dopaminergic, serotonergic, and neuroendocrine signaling pathways",
+    "Tourette's syndrome, schizophrenia, and other psychotic disorders"
+  ],
+  "Pravastatin (sodium)": [
+    "HMG-CoA reductase",
+    "Mevalonate pathway, cholesterol biosynthesis, lipid metabolism",
+    "Hyperlipidemia, primary dysbetalipoproteinemia, homozygous familial hypercholesterolemia, prevention of cardiovascular events"
+  ],
+  "Carbamazepine": [
+    "Voltage-gated sodium channels, NMDA receptors",
+    "GABAergic signaling, glutamatergic signaling, neuronal excitability",
+    "Epilepsy, trigeminal neuralgia, bipolar disorder"
+  ],
+  "Roxadustat": [
+    "HIF-2\u03b1",
+    "Erythropoiesis, angiogenesis, inflammation",
+    "Anemia in chronic kidney disease patients on dialysis, anemia in chronic kidney disease patients not on dialysis"
+  ],
+  "Dihydroartemisinin": [
+    "PfATP6, SERCA",
+    "Apoptosis, Autophagy, Cell cycle arrest, Oxidative stress",
+    "Malaria"
+  ],
+  "Aspirin": [
+    "COX-1, COX-2",
+    "Prostaglandin synthesis, platelet aggregation, inflammation",
+    "Pain relief, fever reduction, inflammation reduction, cardiovascular disease prevention"
+  ],
+  "Vitamin K4": [
+    "Gamma-glutamyl carboxylase, Vitamin K epoxide reductase, Vitamin K-dependent carboxylase",
+    "Blood coagulation, Bone metabolism, Cardiovascular health",
+    "Bleeding diathesis, Hypoprothrombinemia, Vitamin K deficiency"
+  ],
+  "Digitoxin": [
+    "Na+/K+-ATPase",
+    "Cardiac conduction, renin-angiotensin-aldosterone system, intracellular calcium signaling",
+    "Atrial fibrillation, atrial flutter, congestive heart failure"
+  ],
+  "Norepinephrine (hydrochloride)": [
+    "Alpha-1 adrenergic receptors, Alpha-2 adrenergic receptors, Beta-1 adrenergic receptors",
+    "Vasoconstriction pathway, Cardiac contractility pathway, Vasopressor pathway",
+    "Hypotension, Septic shock, Cardiac arrest"
+  ],
+  "Megestrol": [
+    "Progesterone receptor",
+    "Glucocorticoid-mediated signaling, insulin-like growth factor-1 signaling, protein synthesis pathways",
+    "Anorexia, cachexia, and unexplained weight loss in patients with AIDS, breast cancer, and endometrial carcinoma"
+  ],
+  "Irinotecan": [
+    "Topoisomerase I",
+    "DNA replication, cell cycle arrest, apoptosis",
+    "Colorectal cancer, small cell lung cancer"
+  ],
+  "Trametinib (DMSO_TF solvate)": [
+    "MEK1, MEK2",
+    "MAPK/ERK signaling, PI3K/AKT signaling, cell cycle regulation",
+    "Metastatic melanoma, non-small cell lung cancer, thyroid cancer"
+  ],
+  "Balsalazide (sodium hydrate)": [
+    "Azoreductases, bacterial beta-glucosidases",
+    "Inflammation reduction, antioxidant, prostaglandin synthesis",
+    "Ulcerative colitis"
+  ],
+  "IQ 1": [
+    "PI3K, AKT, mTOR",
+    "Apoptosis, cell cycle regulation, angiogenesis",
+    "Breast cancer, renal cell carcinoma, pancreatic neuroendocrine tumors"
+  ],
+  "Lucanthone": [
+    "DNA, topoisomerase II, protein kinase C",
+    "Apoptosis, cell cycle regulation, DNA replication",
+    "Schistosomiasis, intestinal amoebiasis"
+  ],
+  "Temsirolimus": [
+    "mTOR",
+    "PI3K/AKT, cell cycle regulation, apoptosis",
+    "Advanced renal cell carcinoma"
+  ],
+  "Dapagliflozin": [
+    "Sodium-glucose cotransporter 2 (SGLT2)",
+    "Glucose uptake, insulin sensitivity, renal glucose excretion, blood pressure regulation",
+    "Type 2 diabetes, heart failure, chronic kidney disease"
+  ],
+  "TAK-901": [
+    "Sphingosine-1-phosphate receptor, LPA1 receptor",
+    "Phospholipase C pathway, Rho kinase pathway, PI3K/Akt pathway",
+    "Treatment of multiple sclerosis, treatment of ulcerative colitis"
+  ],
+  "Larotrectinib": [
+    "NTRK1, NTRK2, NTRK3",
+    "MAPK, PI3K/AKT, NF-\u03baB",
+    "Solid tumors with NTRK fusion, infantile fibrosarcoma, thyroid cancer, salivary gland cancer"
+  ],
+  "Gallic acid": [
+    "Estrogen receptors, COX-2, NF-\u03baB, STAT3, PI3K/AKT",
+    "Apoptosis, cell cycle regulation, inflammation, antioxidant defense",
+    "Wound healing, gastrointestinal disorders, cancer prevention"
+  ],
+  "palbociclib": [
+    "CDK4, CDK6",
+    "Cell cycle progression, DNA replication, retinoblastoma protein regulation",
+    "HR-positive, HER2-negative advanced or metastatic breast cancer, HR-positive, HER2-negative metastatic breast cancer"
+  ],
+  "Ciclopirox": [
+    "DNA, cytochrome P450, iron-sulfur proteins",
+    "Cellular respiration, fatty acid synthesis, sterol biosynthesis",
+    "Seborrheic dermatitis, cutaneous candidiasis, tinea pedis, tinea cruris, tinea corporis"
+  ],
+  "Cysteamine (hydrochloride)": [
+    "Cystine transporter, lysosomal cystine transporter",
+    "Transcriptional regulation, lysosomal function, cellular autophagy",
+    "Cystinosis, nephropathic cystinosis"
+  ],
+  "Pimitespib": [
+    "Heat shock protein 90 (HSP90)",
+    "Apoptosis, cell cycle regulation, angiogenesis",
+    "None, currently in clinical trials for various cancers"
+  ],
+  "9-ING-41": [
+    "GSK3, TBK1",
+    "NF-\u03baB, PI3K/AKT, WNT/\u03b2-catenin",
+    "Triple-negative breast cancer, metastatic colorectal cancer, ovarian cancer"
+  ],
+  "Citalopram (hydrobromide)": [
+    "Serotonin transporter",
+    "Neurotransmission, synaptic plasticity, mood regulation",
+    "Major depressive disorder, depressive episodes"
+  ],
+  "Lopinavir": [
+    "HIV-1 protease",
+    "PI3K/Akt, NF-\u03baB, MAPK/ERK",
+    "HIV-1 infection, AIDS"
+  ],
+  "Erdafitinib": [
+    "FGFR1, FGFR2, FGFR3, FGFR4",
+    "PI3K/AKT, RAS/MAPK, JAK/STAT",
+    "Locally advanced or metastatic urothelial carcinoma"
+  ],
+  "Vortioxetine": [
+    "Serotonin receptors, serotonin transporter, norepinephrine transporter, GABA receptors, glutamate receptors",
+    "Neuroplasticity pathways, synaptic transmission, neuronal excitability, stress response",
+    "Major depressive disorder, generalized anxiety disorder, treatment-resistant depression"
+  ],
+  "Tofacitinib": [
+    "JAK1, JAK2, JAK3, TYK2",
+    "JAK-STAT signaling, NF-\u03baB signaling, PI3K/AKT signaling",
+    "Rheumatoid arthritis, Psoriatic arthritis, Ulcerative colitis, Polyarticular juvenile idiopathic arthritis"
+  ],
+  "Cilostazol": [
+    "Phosphodiesterase 3",
+    "Cyclic adenosine monophosphate signaling, platelet aggregation, vascular smooth muscle relaxation",
+    "Intermittent claudication, peripheral arterial disease"
+  ],
+  "Verteporfin": [
+    "Protoporphyrin IX, YAP/TAZ, PD-L1",
+    "PI3K/AKT, NF-\u03baB, JAK/STAT, apoptosis",
+    "Age-related macular degeneration, pathological myopia, ocular histoplasmosis syndrome"
+  ],
+  "Sapanisertib": [
+    "mTOR",
+    "PI3K/AKT, MAPK/ERK, HIF-1\u03b1",
+    "None"
+  ],
+  "Retinoic acid": [
+    "Retinoic acid receptors (RARs), retinoid X receptors (RXRs)",
+    "Cell differentiation, apoptosis, inflammation, angiogenesis",
+    "Acute promyelocytic leukemia, severe cystic acne"
+  ],
+  "Harringtonine": [
+    "Ribosomes",
+    "Protein synthesis, cell cycle regulation, apoptosis",
+    "Leukemia, lymphoma"
+  ],
+  "Sivelestat (sodium tetrahydrate)": [
+    "Neutrophil elastase",
+    "Acute inflammatory response, coagulation cascade, oxidative stress",
+    "Acute respiratory distress syndrome"
+  ],
+  "ML264": [
+    "ROR\u03b3t",
+    "Inflammation, immune response, cell differentiation",
+    "Psoriatic arthritis, psoriasis, rheumatoid arthritis"
+  ],
+  "venetoclax": [
+    "BCL-2",
+    "Apoptosis, mitochondrial outer membrane permeabilization, intrinsic pathway of apoptosis",
+    "Chronic lymphocytic leukemia, acute myeloid leukemia, follicular lymphoma"
+  ],
+  "Benztropine (mesylate)": [
+    "Muscarinic acetylcholine receptors",
+    "Dopaminergic signaling, cholinergic neurotransmission",
+    "Parkinsonian tremor, extrapyramidal symptoms, drug-induced parkinsonism"
+  ],
+  "olaparib": [
+    "PARP1, PARP2",
+    "DNA repair, homologous recombination, base excision repair",
+    "Ovarian cancer, breast cancer, pancreatic cancer, prostate cancer"
+  ],
+  "Budesonide": [
+    "Glucocorticoid receptor",
+    "Inflammation reduction, immune response suppression, apoptosis regulation",
+    "Asthma, chronic obstructive pulmonary disease, allergic rhinitis, Crohn's disease, ulcerative colitis"
+  ],
+  "Macitentan": [
+    "Endothelin receptors",
+    "Endothelin-1 signaling, vascular remodeling, proliferation",
+    "Pulmonary arterial hypertension"
+  ],
+  "Dexmedetomidine": [
+    "Alpha-2 adrenergic receptors",
+    "Sympathetic nervous system activity, sedation pathways, analgesic pathways",
+    "Sedation in intensive care unit patients, sedation for procedural sedation, agitation in intensive care unit patients"
+  ],
+  "Phenytoin (sodium)": [
+    "Voltage-gated sodium channels",
+    "Inhibition of neuronal excitability, reduction of post-tetanic potentiation, blockade of synaptic transmission",
+    "Seizures, status epilepticus, tonic-clonic seizures, complex partial seizures"
+  ],
+  "Procainamide (hydrochloride)": [
+    "Sodium channels, potassium channels",
+    "Cardiac action potential, atrioventricular node conduction, ventricular depolarization",
+    "Life-threatening ventricular arrhythmias, atrial fibrillation, supraventricular tachycardia"
+  ],
+  "Eplerenone": [
+    "Mineralocorticoid receptor",
+    "Aldosterone-sensitive sodium transport, blood pressure regulation, cardiac fibrosis",
+    "Hypertension, heart failure, primary aldosteronism"
+  ],
+  "Pentamidine (isethionate)": [
+    "P2X purinoceptor 7, DNA",
+    "Inflammation, apoptosis, cellular stress response",
+    "Pneumocystis pneumonia, trypanosomiasis"
+  ],
+  "Ponatinib": [
+    "BCR-ABL, FGFR, VEGFR, PDGFR",
+    "MAPK, PI3K/AKT, JAK/STAT, angiogenesis",
+    "Chronic myeloid leukemia, acute lymphoblastic leukemia"
+  ],
+  "Salicylic acid": [
+    "COX-1, COX-2, NF-\u03baB",
+    "Inflammation, pain, fever, apoptosis",
+    "Acne, psoriasis, calluses, corns, warts"
+  ],
+  "Bicalutamide": [
+    "Androgen receptor",
+    "Cell proliferation, apoptosis, angiogenesis, steroidogenesis",
+    "Prostate cancer"
+  ],
+  "Folic acid": [
+    "Dihydrofolate reductase, folate receptor",
+    "Methionine cycle, nucleotide synthesis, homocysteine metabolism",
+    "Megaloblastic anemia, fetal development during pregnancy, osteoporosis prevention"
+  ],
+  "Torkinib": [
+    "MET, AXL, VEGFR2, TIE2",
+    "PI3K/AKT, MAPK/ERK, JAK/STAT, angiogenesis",
+    "Advanced renal cell carcinoma, hepatocellular carcinoma"
+  ],
+  "Idoxuridine": [
+    "Thymidine kinase, DNA polymerase",
+    "Nucleotide synthesis, DNA replication, viral replication",
+    "Herpes simplex keratitis"
+  ],
+  "Ivermectin": [
+    "Glutamate-gated chloride channels, gamma-aminobutyric acid (GABA) receptors, glycine receptors, P2X4 receptors",
+    "Mammalian target of rapamycin (mTOR) pathway, phosphoinositide 3-kinase (PI3K)/AKT pathway, nuclear factor-kappa B (NF-\u03baB) pathway",
+    "Onchocerciasis, strongyloidiasis, ascariasis, trichuriasis, enterobiasis, hookworm disease"
+  ],
+  "Uridine": [
+    "Nucleoside transporters, RNA, DNA",
+    "Pyrimidine metabolism, glycolysis, mitochondrial function",
+    "Herpes simplex virus infections, cardiovascular disease, mitochondrial disorders"
+  ],
+  "RMC-6236": [
+    "CD47, SIRP\u03b1",
+    "Phagocytosis, immune response, cell signaling",
+    "No approved indications"
+  ],
+  "Elagolix sodium": [
+    "Gonadotropin-releasing hormone receptors",
+    "Hypothalamic-pituitary-gonadal axis, ovarian function regulation, luteinizing hormone and follicle-stimulating hormone secretion",
+    "Moderate to severe pain associated with endometriosis, heavy menstrual bleeding associated with uterine fibroids"
+  ],
+  "S-Adenosyl-L-methionine (disulfate tosylate)": [
+    "Methionine adenosyltransferase, catechol-O-methyltransferase, histone methyltransferases, DNA methyltransferases",
+    "Methylation, transsulfuration, polyamine synthesis",
+    "Osteoarthritis, depression, liver disease"
+  ],
+  "Meloxicam": [
+    "COX-1, COX-2",
+    "Prostaglandin synthesis, Inflammatory response, Pain perception",
+    "Osteoarthritis, Rheumatoid arthritis, Juvenile rheumatoid arthritis"
+  ],
+  "Vilanterol": [
+    "Beta-2 adrenergic receptors",
+    "Airway smooth muscle relaxation, bronchodilation, inflammation reduction",
+    "Chronic obstructive pulmonary disease, asthma"
+  ],
+  "vincristine": [
+    "Tubulin",
+    "Cell cycle arrest, apoptosis, and inhibition of microtubule dynamics",
+    "Acute lymphoblastic leukemia, lymphomas, childhood rhabdomyosarcoma, neuroblastoma, and Wilms' tumor"
+  ],
+  "Carbidopa (monohydrate)": [
+    "Aromatic L-amino acid decarboxylase",
+    "Dopaminergic pathway, neurotransmitter synthesis",
+    "Parkinson's disease, restless legs syndrome"
+  ],
+  "8-Hydroxyquinoline": [
+    "DNA, RNA, Proteins, Metals",
+    "Apoptosis, Cell cycle regulation, DNA replication",
+    "Antimalarial, Antiprotozoal, Antibacterial"
+  ],
+  "Betamethasone dipropionate": [
+    "Glucocorticoid receptor",
+    "Inflammation reduction, immune response suppression, apoptosis regulation",
+    "Psoriasis, eczema, dermatitis, allergic contact dermatitis"
+  ],
+  "Fusidic acid": [
+    "Elongation factor G",
+    "Protein synthesis, cell growth, and bacterial cell wall formation",
+    "Bacterial infections, osteomyelitis, septicemia, and infections caused by Staphylococcus aureus"
+  ],
+  "Trimetrexate": [
+    "Dihydrofolate reductase",
+    "Methotrexate pathway, folate metabolism, nucleic acid synthesis",
+    "Pneumocystis jiroveci pneumonia"
+  ],
+  "Silodosin": [
+    "Alpha-1 adrenergic receptors",
+    "Rho kinase pathway, smooth muscle contraction pathway, nitric oxide pathway",
+    "Benign prostatic hyperplasia, urinary retention, lower urinary tract symptoms"
+  ],
+  "Abiraterone acetate": [
+    "CYP17",
+    "Androgen biosynthesis, glucocorticoid biosynthesis, steroidogenesis",
+    "Metastatic castration-resistant prostate cancer, metastatic high-risk castration-sensitive prostate cancer, non-metastatic castration-resistant prostate cancer"
+  ],
+  "Talc": [
+    "Mesothelial cells, macrophages, inflammatory mediators",
+    "Inflammation, fibrosis, coagulation",
+    "Malignant pleural effusion, recurrent pleural effusion"
+  ],
+  "Cobimetinib": [
+    "MEK1, MEK2",
+    "MAPK/ERK signaling, cell cycle regulation, apoptosis",
+    "BRAF V600E or V600K mutation-positive unresectable or metastatic melanoma, hormone receptor-positive advanced or metastatic breast cancer"
+  ],
+  "Goserelin (acetate)": [
+    "Gonadotropin-releasing hormone (GnRH) receptors",
+    "Hypothalamic-pituitary-gonadal axis, luteinizing hormone (LH) and follicle-stimulating hormone (FSH) regulation",
+    "Prostate cancer, breast cancer, endometriosis, uterine fibroids, precocious puberty"
+  ],
+  "Estrone sulfate (potassium)": [
+    "Estrogen receptors",
+    "Cell growth and differentiation, hormone regulation, menopause-related pathways",
+    "Menopausal symptoms, osteoporosis, vaginal atrophy"
+  ],
+  "Arbutin": [
+    "Tyrosinase",
+    "Melanogenesis, antioxidant, anti-inflammatory",
+    "Hyperpigmentation, melasma, solar lentigines"
+  ],
+  "Bisoprolol (hemifumarate)": [
+    "Beta-1 adrenergic receptors",
+    "Cardiac conduction, vascular smooth muscle contraction, renin-angiotensin-aldosterone system",
+    "Hypertension, angina pectoris, heart failure"
+  ],
+  "Oleic acid": [
+    "PPAR\u03b3, GPR40, GPR119",
+    "Insulin signaling, fatty acid metabolism, inflammation",
+    "Wound healing, nutritional supplement"
+  ],
+  "Berberine (chloride hydrate)": [
+    "AMP-activated protein kinase, DNA, protein kinase C, cyclooxygenase-2, aldose reductase",
+    "Insulin signaling pathway, NF-\u03baB pathway, PI3K/Akt pathway, mitochondrial biogenesis pathway",
+    "Type 2 diabetes, dyslipidemia, gastrointestinal infections"
+  ],
+  "Edoxaban (tosylate monohydrate)": [
+    "Factor Xa",
+    "Coagulation cascade, thrombin generation",
+    "Non-valvular atrial fibrillation, deep vein thrombosis, pulmonary embolism, stroke prevention"
+  ],
+  "Bendamustine": [
+    "DNA, histone proteins",
+    "Apoptosis, cell cycle regulation, DNA damage response",
+    "Chronic lymphocytic leukemia, indolent non-Hodgkin lymphoma"
+  ],
+  "Adagrasib": [
+    "KRAS G12C",
+    "MAPK, PI3K/AKT, RAS/RAF signaling",
+    "Non-small cell lung cancer, colorectal cancer"
+  ],
+  "OTS514": [
+    "CDK2, CDK4, CDK6, CDK9",
+    "Cell cycle progression, DNA replication, Transcriptional regulation",
+    "Breast cancer, Lung cancer, Melanoma"
+  ],
+  "Tazarotene": [
+    "Retinoic acid receptors (RARs), retinoid X receptors (RXRs)",
+    "Cell differentiation, apoptosis, inflammation, keratinization",
+    "Psoriasis, acne, fine wrinkles, facial lentigines, hyperpigmentation"
+  ],
+  "Pexidartinib (hydrochloride)": [
+    "CSF1R, KIT, FLT3, VEGFR, PDGFR",
+    "PI3K/AKT, MAPK/ERK, JAK/STAT, angiogenesis",
+    "Tenosynovial giant cell tumor, giant cell tumor of the tendon sheath, pigmented villonodular synovitis"
+  ],
+  "Finasteride": [
+    "5-alpha-reductase",
+    "Androgen biosynthesis, hair growth regulation, prostate growth regulation",
+    "Benign prostatic hyperplasia, male pattern hair loss, prostate cancer"
+  ],
+  "Bimatoprost": [
+    "Prostaglandin F2 alpha receptor",
+    "Intraocular pressure reduction, aqueous humor outflow, uveoscleral outflow",
+    "Glaucoma, ocular hypertension, eyelash hypotrichosis"
+  ],
+  "Homoharringtonine": [
+    "Ribosomes",
+    "Protein synthesis, cell cycle regulation, apoptosis",
+    "Chronic myeloid leukemia, myelofibrosis, other myeloproliferative neoplasms"
+  ],
+  "BI-3406": [
+    "TNFR2, CD40, HVEM",
+    "NF-\u03baB signaling, cell survival, immune response",
+    "Non-Hodgkin's lymphoma, chronic lymphocytic leukemia"
+  ],
+  "Ipatasertib": [
+    "AKT, PI3K, PDK1, mTOR",
+    "PI3K/AKT signaling, cell cycle regulation, apoptosis",
+    "None"
+  ],
+  "Temuterkib": [
+    "ERK1, ERK2",
+    "MAPK signaling, cell cycle regulation, apoptosis",
+    "Non-small cell lung cancer, solid tumors"
+  ],
+  "Lidocaine (hydrochloride)": [
+    "Sodium channels, voltage-gated calcium channels",
+    "Pain transmission, inflammatory response, sympathetic nervous system activity",
+    "Local anesthesia, ventricular arrhythmias, trigeminal neuralgia"
+  ],
+  "Trametinib": [
+    "MEK1, MEK2",
+    "MAPK/ERK, PI3K/AKT, NF-\u03baB",
+    "Melanoma, Non-small cell lung cancer, Thyroid cancer"
+  ],
+  "Mebendazole": [
+    "Tubulin",
+    "Microtubule dynamics, cell division, glucose uptake",
+    "Hookworm infections, roundworm infections, pinworm infections, whipworm infections, trichuriasis, neurocysticercosis, hydatid disease, echinococcosis"
+  ],
+  "Pasireotide (acetate)": [
+    "Somatostatin receptors 1, 2, 3, and 5",
+    "Cell proliferation signaling, hormone secretion regulation, apoptosis modulation, angiogenesis inhibition",
+    "Cushing's disease, acromegaly"
+  ],
+  "Perindopril (erbumine)": [
+    "Angiotensin-converting enzyme (ACE)",
+    "Renin-angiotensin-aldosterone system, blood pressure regulation, vascular remodeling",
+    "Hypertension, stable coronary artery disease, heart failure"
+  ],
+  "Brivudine": [
+    "Herpes simplex virus thymidine kinase, viral DNA polymerase",
+    "Nucleotide synthesis, viral replication, cell proliferation",
+    "Herpes zoster, herpes simplex"
+  ],
+  "Thymopentin": [
+    "T cells, thymus-derived lymphocytes",
+    "Immune response, cell-mediated immunity, inflammatory response",
+    "Immunodeficiency, rheumatoid arthritis, systemic lupus erythematosus"
+  ],
+  "Trifluridine": [
+    "Thymidylate synthase, DNA",
+    "Nucleotide synthesis, DNA replication, cell cycle progression",
+    "Metastatic colorectal cancer, metastatic gastric cancer"
+  ],
+  "DT-061": [
+    "CDK2, CDK4, CDK6",
+    "Cell cycle regulation, DNA replication, apoptosis",
+    "Breast cancer, ovarian cancer, non-small cell lung cancer"
+  ],
+  "Methyl aminolevulinate (hydrochloride)": [
+    "Protoporphyrin IX",
+    "Apoptosis, cell cycle arrest, mitochondrial damage",
+    "Actinic keratosis, Bowen's disease, basal cell carcinoma"
+  ],
+  "Gemfibrozil": [
+    "Peroxisome proliferator-activated receptor alpha (PPAR\u03b1)",
+    "Lipid metabolism, fatty acid oxidation, triglyceride clearance",
+    "Hyperlipidemia, mixed dyslipidemia, elevated triglycerides, low HDL cholesterol"
+  ],
+  "Clonidine (hydrochloride)": [
+    "Alpha-2 adrenergic receptors",
+    "Sympathetic nervous system signaling, blood vessel constriction, neurotransmitter release",
+    "Hypertension, attention deficit hyperactivity disorder, pain management, anxiety and agitation"
+  ],
+  "Neratinib (maleate)": [
+    "ErbB2, ErbB4, EGFR",
+    "PI3K/AKT, MAPK/ERK, cell cycle regulation",
+    "Extended adjuvant treatment of early-stage HER2-positive breast cancer, metastatic HER2-positive breast cancer"
+  ],
+  "Canagliflozin": [
+    "Sodium-glucose cotransporter 2 (SGLT2)",
+    "Glucose reabsorption, insulin sensitivity, glucagon secretion, blood pressure regulation",
+    "Type 2 diabetes mellitus, heart failure, chronic kidney disease"
+  ],
+  "Naproxen": [
+    "COX-1, COX-2",
+    "Prostaglandin synthesis, Inflammatory response, Pain perception",
+    "Rheumatoid arthritis, Osteoarthritis, Ankylosing spondylitis, Juvenile idiopathic arthritis, Dysmenorrhea, Pain management"
+  ],
+  "Tetracycline (hydrochloride)": [
+    "30S ribosomal subunit",
+    "Protein synthesis, cell growth, apoptosis",
+    "Acne, Rocky Mountain spotted fever, brucellosis, cholera, plague, malaria, syphilis, gonorrhea"
+  ],
+  "5-Azacytidine": [
+    "DNA methyltransferase, DNMT1, DNMT3A, DNMT3B",
+    "Cell cycle regulation, DNA demethylation, apoptosis, autophagy",
+    "Myelodysplastic syndromes, acute myeloid leukemia, chronic myelomonocytic leukemia"
+  ],
+  "Omeprazole": [
+    "H+/K+ ATPase",
+    "Proton pump inhibition, gastric acid secretion, hormone regulation",
+    "Gastroesophageal reflux disease, Zollinger-Ellison syndrome, peptic ulcer disease, Helicobacter pylori infection"
+  ],
+  "Sildenafil": [
+    "Phosphodiesterase type 5 (PDE5)",
+    "Nitric oxide signaling, cyclic guanosine monophosphate (cGMP) signaling, smooth muscle relaxation",
+    "Erectile dysfunction, pulmonary arterial hypertension, exercise-induced pulmonary hypertension"
+  ],
+  "Vismodegib": [
+    "Smoothened",
+    "Hedgehog signaling pathway, cell cycle regulation, apoptosis",
+    "Basal cell carcinoma"
+  ],
+  "Cyclosporin A": [
+    "Calcineurin, cyclophilin",
+    "NF-AT signaling, T-cell activation, immune response",
+    "Organ rejection in kidney, liver, and heart transplants, rheumatoid arthritis, psoriasis, nephrotic syndrome"
+  ],
+  "PH-797804": [
+    "p38 mitogen-activated protein kinase (p38 MAPK)",
+    "NF-\u03baB signaling, cytokine production, inflammatory responses",
+    "Moderate to severe plaque psoriasis, rheumatoid arthritis, psoriatic arthritis"
+  ],
+  "Sodium Salicylate": [
+    "COX-1, COX-2, NF-\u03baB",
+    "Inflammatory response, pain signaling, fever regulation",
+    "Pain relief, fever reduction, rheumatic fever, osteoarthritis"
+  ],
+  "Artemether": [
+    "PfATP6, parasite mitochondria",
+    "Apoptosis, cell cycle arrest, oxidative stress",
+    "Malaria, severe malaria, cerebral malaria"
+  ],
+  "Peretinoin": [
+    "RAR\u03b1, RAR\u03b2, RAR\u03b3",
+    "Apoptosis, cell differentiation, lipid metabolism",
+    "Acute promyelocytic leukemia"
+  ],
+  "Darolutamide": [
+    "Androgen receptor",
+    "Cell proliferation, apoptosis, angiogenesis, NF-\u03baB signaling",
+    "Non-metastatic castration-resistant prostate cancer, metastatic hormone-sensitive prostate cancer"
+  ],
+  "Rimonabant (Hydrochloride)": [
+    "CB1 receptors",
+    "Lipid metabolism, glucose homeostasis, appetite regulation",
+    "Obesity, smoking cessation"
+  ],
+  "LJI308": [
+    "PI3K, mTOR, Akt",
+    "Insulin/IGF-1 signaling, cell proliferation, apoptosis",
+    "Breast cancer, renal cell carcinoma, pancreatic neuroendocrine tumors"
+  ],
+  "ULK-101": [
+    "ULK1, ULK2, ULK3",
+    "Autophagy, apoptosis, cell cycle regulation",
+    "Neurodegenerative diseases, cancer, infectious diseases"
+  ],
+  "LY2090314": [
+    "CDK4, CDK6",
+    "PI3K/AKT, Rb, cell cycle regulation",
+    "Breast cancer, HR-positive, HER2-negative, advanced or metastatic"
+  ],
+  "Berbamine (dihydrochloride)": [
+    "DNA topoisomerase II, protein tyrosine kinases",
+    "Apoptosis, cell cycle regulation, angiogenesis",
+    "Leukemia, lymphoma"
+  ],
+  "Adenine": [
+    "Purine receptors, adenosine receptors, A1, A2A, A2B, A3",
+    "Inflammation, immune response, cardiovascular signaling, neurotransmission",
+    "No approved therapeutic indications"
+  ],
+  "Proglumide": [
+    "Cholecystokinin receptors",
+    "Gastrointestinal motility, satiety signaling, pancreatic secretion",
+    "Peptic ulcer disease, gastroesophageal reflux disease"
+  ],
+  "DTP3": [
+    "Diphtheria toxin, Pertussis toxin, Tetanus toxin",
+    "Cell signaling, Immune response, Neurotransmission",
+    "Diphtheria, Pertussis, Tetanus"
+  ],
+  "Clopidogrel": [
+    "P2Y12 receptor",
+    "Platelet activation, aggregation, and blood coagulation pathways",
+    "Acute coronary syndrome, myocardial infarction, stroke, peripheral artery disease"
+  ],
+  "Topotecan (hydrochloride)": [
+    "Topoisomerase I",
+    "DNA replication, cell cycle progression, apoptosis",
+    "Ovarian cancer, small cell lung cancer, cervical cancer"
+  ],
+  "Tadalafil": [
+    "Phosphodiesterase type 5 (PDE5)",
+    "Nitric oxide signaling, cyclic guanosine monophosphate (cGMP) signaling, smooth muscle relaxation",
+    "Erectile dysfunction, benign prostatic hyperplasia, pulmonary arterial hypertension"
+  ],
+  "Ivabradine (hydrochloride)": [
+    "HCN channels",
+    "Cardiac conduction, sinoatrial node function, sympathetic activity",
+    "Angina pectoris, inappropriate sinus tachycardia, heart failure"
+  ],
+  "Sunitinib": [
+    "VEGFRs, PDGFRs, KIT, FLT3, RET",
+    "Angiogenesis, cell proliferation, apoptosis, metastasis",
+    "Renal cell carcinoma, gastrointestinal stromal tumor, pancreatic neuroendocrine tumors"
+  ],
+  "Nevirapine": [
+    "HIV-1 reverse transcriptase",
+    "NF-\u03baB signaling, cell cycle regulation, apoptosis",
+    "HIV-1 infection, AIDS"
+  ],
+  "Hydroxyurea": [
+    "Ribonucleotide reductase",
+    "DNA synthesis, cell cycle regulation, nitric oxide production",
+    "Sickle cell disease, chronic myeloid leukemia, cancer, psoriasis"
+  ],
+  "Doxorubicin (hydrochloride)": [
+    "DNA topoisomerase II, DNA",
+    "Apoptosis, cell cycle arrest, DNA damage response",
+    "Breast cancer, ovarian cancer, Hodgkin lymphoma, non-Hodgkin lymphoma, acute lymphoblastic leukemia, acute myeloid leukemia, Wilms tumor, neuroblastoma, soft tissue sarcoma, osteosarcoma"
+  ],
+  "Omeprazole (sodium)": [
+    "H+/K+ ATPase",
+    "Proton pump inhibition, gastric acid secretion, mucosal defense",
+    "Gastroesophageal reflux disease, Zollinger-Ellison syndrome, peptic ulcer disease, Helicobacter pylori infection"
+  ],
+  "Ataluren": [
+    "Nonsense mutations in mRNA",
+    "Protein synthesis, nonsense-mediated mRNA decay, cellular stress response",
+    "Duchenne muscular dystrophy, mucopolysaccharidosis type I"
+  ],
+  "Flumatinib (mesylate)": [
+    "ABL, PDGFR, c-Kit",
+    "JAK/STAT, PI3K/AKT, MAPK/ERK",
+    "Chronic myeloid leukemia, Philadelphia chromosome-positive acute lymphoblastic leukemia"
+  ],
+  "\u03b3-Oryzanol": [
+    "Cyclooxygenase-2, 5-lipoxygenase, nuclear factor-kappa B, peroxisome proliferator-activated receptor gamma",
+    "Inflammation, antioxidant, apoptosis, cell cycle regulation",
+    "Hyperlipidemia, menopausal symptoms, gastrointestinal disorders"
+  ],
+  "Furosemide": [
+    "Na+/K+/2Cl- cotransporter",
+    "Renin-angiotensin-aldosterone system, sympathetic nervous system, prostaglandin synthesis",
+    "Edema, hypertension, pulmonary edema, ascites"
+  ],
+  "Monocrotaline": [
+    "Endothelin receptors, phospholipase A2",
+    "Apoptosis, inflammation, vascular remodeling",
+    "Pulmonary hypertension, hepatopulmonary syndrome"
+  ],
+  "Doxycycline (monohydrate)": [
+    "30S ribosomal subunit",
+    "Protein synthesis, inflammation, apoptosis",
+    "Periodontitis, acne, rocky mountain spotted fever, Lyme disease"
+  ],
+  "Triclosan": [
+    "Enoyl-acyl carrier protein reductase, FabI",
+    "Fatty acid biosynthesis, cell membrane integrity",
+    "Acne, dermatitis, gingivitis"
+  ],
+  "PF-06260933": [
+    "CD47, SIRP\u03b1",
+    "Phagocytosis, immune response, cell signaling",
+    "No approved indications"
+  ],
+  "SBI-0640756": [
+    "CSF1R, c-KIT",
+    "PI3K/AKT, MAPK/ERK, JAK/STAT",
+    "Rheumatoid arthritis, psoriasis, cancer"
+  ],
+  "Acetohexamide": [
+    "Pancreatic ATP-sensitive potassium channels, sulfonylurea receptor 1",
+    "Insulin secretion pathway, glucose metabolism pathway, pancreatic beta-cell function pathway",
+    "Type 2 diabetes mellitus"
+  ],
+  "Pyridoxine": [
+    "Pyridoxal phosphate, Pyridoxal kinase, GABA receptors, Kynureninase",
+    "Glycogenolysis, Gluconeogenesis, Neurotransmitter synthesis, Hemoglobin synthesis",
+    "Dietary supplement for pyridoxine deficiency, Vitamin B6 deficiency, Pyridoxine-dependent epilepsy, Homocystinuria, Sideroblastic anemia"
+  ],
+  "Bexarotene": [
+    "Retinoid X receptors (RXR)",
+    "Cell differentiation, apoptosis, lipid metabolism, immune response",
+    "Cutaneous T-cell lymphoma"
+  ],
+  "Econazole": [
+    "Lanosterol 14\u03b1-demethylase",
+    "Sterol biosynthesis, cell membrane integrity, fungal cell growth",
+    "Tinea pedis, tinea cruris, tinea corporis, cutaneous candidiasis, tinea versicolor"
+  ],
+  "Imiquimod (hydrochloride)": [
+    "Toll-like receptor 7 and 8",
+    "Immune response, inflammatory response, cell death",
+    "Actinic keratosis, superficial basal cell carcinoma, external genital and perianal warts"
+  ],
+  "Everolimus": [
+    "mTOR",
+    "PI3K/AKT, cell cycle regulation, angiogenesis",
+    "Renal cell carcinoma, breast cancer, pancreatic neuroendocrine tumors, advanced hepatocellular carcinoma, tuberous sclerosis complex"
+  ],
+  "Plicamycin": [
+    "DNA, ribonucleic acid",
+    "Apoptosis, cell cycle arrest, bone resorption",
+    "Testicular cancer, hypercalcemia, Paget's disease"
+  ],
+  "Elimusertib hydrochloride": [
+    "Aurora kinases",
+    "Cell cycle regulation, apoptosis, angiogenesis",
+    "None, currently in clinical trials for solid tumors and hematologic malignancies"
+  ],
+  "Filgotinib": [
+    "JAK1",
+    "Cytokine signaling, immune cell activation, inflammation",
+    "Rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, ulcerative colitis"
+  ],
+  "Tomivosertib": [
+    "MNK1, MNK2",
+    "MAPK, mTOR, PI3K/AKT",
+    "None"
+  ],
+  "Tofacitinib (citrate)": [
+    "JAK1, JAK2, JAK3, TYK2",
+    "JAK-STAT signaling, immune response, inflammation",
+    "Rheumatoid arthritis, psoriatic arthritis, ulcerative colitis, polyarticular course juvenile idiopathic arthritis"
+  ],
+  "Osimertinib (mesylate)": [
+    "EGFR, EGFR T790M, EGFR exon 19 deletion, EGFR exon 20 insertion",
+    "PI3K/AKT, MAPK/ERK, JAK/STAT, NF-\u03baB",
+    "Non-small cell lung cancer (NSCLC) with specific EGFR mutations, including T790M, exon 19 deletion, or exon 21 L858R"
+  ],
+  "Levobupivacaine (hydrochloride)": [
+    "Sodium channels, voltage-gated calcium channels",
+    "Neurotransmission, pain signaling, inflammatory response",
+    "Local anesthesia, regional anesthesia, surgical anesthesia, pain management"
+  ],
+  "Imiquimod (maleate)": [
+    "Toll-like receptor 7 and 8",
+    "Immune response, cytokine production, cell proliferation, apoptosis",
+    "Actinic keratosis, superficial basal cell carcinoma, external genital and perianal warts"
+  ],
+  "Mozavaptan": [
+    "Vasopressin V2 receptor, Vasopressin V1a receptor",
+    "Renin-angiotensin-aldosterone system, Aquaporin-2 regulation, Osmoregulation",
+    "Hyponatremia, Syndrome of inappropriate antidiuretic hormone secretion (SIADH)"
+  ],
+  "Thymol": [
+    "Cyclooxygenase enzymes, Acetylcholinesterase",
+    "Inflammation, Oxidative stress, Neurotransmission",
+    "Antimicrobial, Antifungal, Anthelmintic"
+  ],
+  "Dorzolamide (hydrochloride)": [
+    "Carbonic anhydrase II, Carbonic anhydrase IV",
+    "Aqueous humor production, Intraocular pressure regulation, Ion transport",
+    "Glaucoma, Ocular hypertension"
+  ],
+  "Tranilast": [
+    "Transforming growth factor beta (TGF-\u03b2)",
+    "Fibrosis, inflammation, cell proliferation",
+    "Hypertrophic scarring, keloids, allergic rhinitis, asthma"
+  ],
+  "AZD2858": [
+    "PI3K, mTOR, AKT",
+    "Cell proliferation, Apoptosis, Glycolysis",
+    "Breast cancer, Renal cell carcinoma, Non-small cell lung cancer"
+  ],
+  "Almonertinib (mesylate)": [
+    "MET, AXL, DDR1, DDR2",
+    "PI3K/AKT, MAPK/ERK, JAK/STAT",
+    "Non-small cell lung cancer"
+  ],
+  "Docetaxel (Trihydrate)": [
+    "Microtubules, tubulin",
+    "Cell cycle regulation, apoptosis, angiogenesis",
+    "Breast cancer, non-small cell lung cancer, prostate cancer, gastric adenocarcinoma, head and neck cancer"
+  ],
+  "Tolcapone": [
+    "Catechol-O-methyltransferase (COMT)",
+    "Dopaminergic signaling, nigrostriatal pathway, catecholamine metabolism",
+    "Parkinson's disease"
+  ],
+  "NG25": [
+    "TRKA, TRKB, TRKC",
+    "PI3K/AKT, MAPK/ERK, NF-\u03baB",
+    "Pain management, cancer"
+  ],
+  "Adenosine": [
+    "A1, A2A, A2B, A3 receptors",
+    "Cardiovascular signaling, inflammatory response, neuronal modulation",
+    "Supraventricular tachycardia, perioperative tachycardia and fibrillation, diagnostic imaging"
+  ],
+  "Bergenin": [
+    "Cyclooxygenase-2, Alpha-glucosidase, DNA topoisomerase II",
+    "Inflammation, Carbohydrate digestion, Cell cycle regulation",
+    "Type 2 diabetes, Hyperlipidemia, Hepatoprotection"
+  ],
+  "Tubulin inhibitor 6": [
+    "Tubulin",
+    "Cell cycle arrest, apoptosis, angiogenesis inhibition",
+    "Breast cancer, non-small cell lung cancer, ovarian cancer"
+  ],
+  "Verapamil": [
+    "L-type calcium channels",
+    "Calcium signaling, cardiac conduction, vascular smooth muscle contraction",
+    "Hypertension, angina pectoris, supraventricular tachycardia"
+  ],
+  "Sonidegib": [
+    "Smoothened",
+    "Hedgehog signaling pathway, cell cycle regulation, apoptosis",
+    "Adult patients with locally advanced basal cell carcinoma that has recurred following surgery or radiation therapy, or who are not candidates for surgery or radiation therapy, metastatic basal cell carcinoma"
+  ],
+  "Ropivacaine (hydrochloride monohydrate)": [
+    "Sodium channels, voltage-gated calcium channels",
+    "Inhibition of neuronal signaling, reduction of nociceptive transmission, modulation of sympathetic nervous system activity",
+    "Local anesthesia, surgical anesthesia, pain management"
+  ],
+  "Bentamapimod": [
+    "p38 MAP kinase, JNK, MK2",
+    "Apoptosis, cell proliferation, inflammatory response",
+    "None"
+  ],
+  "Entrectinib": [
+    "NTRK1, NTRK2, NTRK3, ROS1, ALK, TRKA, TRKB, TRKC",
+    "MAPK, PI3K/AKT, JAK/STAT",
+    "Non-small cell lung cancer, solid tumors with NTRK fusion, thyroid cancer"
+  ],
+  "LY-2584702 (tosylate salt)": [
+    "mTOR, PI3K, AKT",
+    "Cell growth, Cell proliferation, Apoptosis",
+    "Advanced renal cell carcinoma, Advanced breast cancer"
+  ],
+  "Isocorydine": [
+    "Opioid receptors, dopamine receptors",
+    "Pain signaling, reward processing, neurotransmitter release",
+    "Pain management, cough suppression, diarrhea treatment"
+  ],
+  "GSK1059615": [
+    "Syk kinase",
+    "PI3K/AKT, NF-\u03baB, B-cell receptor signaling",
+    "Rheumatoid arthritis"
+  ],
+  "Niclosamide (olamine)": [
+    "STAT3, mTOR, SIRT1, NF-\u03baB",
+    "Apoptosis, Autophagy, Cell cycle regulation, Inflammatory response",
+    "Intestinal tapeworm infection, Hookworm disease"
+  ],
+  "Anethole trithione": [
+    "Nuclear receptors, GABA receptors, muscarinic receptors",
+    "Inflammation, nociception, gastrointestinal motility",
+    "Gallstones, biliary dyskinesia"
+  ],
+  "Ligustrazine": [
+    "CD36, COX-2, NF-\u03baB, PI3K/Akt",
+    "Inflammation, angiogenesis, apoptosis",
+    "Cerebrovascular disease, coronary heart disease, ischemic stroke"
+  ],
+  "Amsacrine": [
+    "Topoisomerase II",
+    "DNA replication, cell cycle progression, apoptosis",
+    "Acute leukemia"
+  ],
+  "Tucidinostat": [
+    "HDAC1, HDAC2, HDAC3, HDAC4",
+    "Apoptosis, cell cycle arrest, angiogenesis inhibition",
+    "Relapsed or refractory peripheral T-cell lymphoma, acute myeloid leukemia"
+  ],
+  "L-Eflornithine (monohydrochloride)": [
+    "Ornithine decarboxylase",
+    "Polyamine synthesis, cell cycle regulation, apoptosis",
+    "Hirsutism, African trypanosomiasis"
+  ],
+  "Clofarabine": [
+    "DNA polymerase, ribonucleotide reductase, adenylate deaminase",
+    "Apoptosis, cell cycle arrest, DNA synthesis inhibition",
+    "Acute lymphoblastic leukemia, acute myeloid leukemia"
+  ],
+  "Simotinib": [
+    "EGFR, HER2, HER4, VEGFR2, PDGFR\u03b2",
+    "PI3K/AKT, MAPK/ERK, JAK/STAT, VEGF signaling",
+    "Non-small cell lung cancer, breast cancer"
+  ],
+  "HI-TOPK-032": [
+    "TOPK, PLK1",
+    "Cell cycle regulation, DNA damage response, apoptosis",
+    "Acute myeloid leukemia, solid tumors"
+  ],
+  "Olanzapine": [
+    "Dopamine D2, serotonin 5-HT2A, muscarinic M1, histamine H1",
+    "Dopaminergic, serotonergic, cholinergic, glutamatergic",
+    "Schizophrenia, bipolar disorder, major depressive disorder"
+  ],
+  "Flutamide": [
+    "Androgen receptor",
+    "Steroid hormone biosynthesis, cell cycle regulation, apoptosis",
+    "Hormone-resistant prostate cancer, polycystic ovary syndrome, hirsutism, acne"
+  ],
+  "Piroxicam": [
+    "COX-1, COX-2",
+    "Prostaglandin synthesis, Inflammatory response, Pain signaling",
+    "Rheumatoid arthritis, Osteoarthritis, Ankylosing spondylitis, Primary dysmenorrhea"
+  ],
+  "Cytarabine": [
+    "DNA polymerase, ribonucleotide reductase, DNA primase",
+    "Nucleotide metabolism, DNA synthesis, cell cycle regulation",
+    "Acute myeloid leukemia, acute lymphoblastic leukemia, chronic myeloid leukemia, non-Hodgkin's lymphoma, meningeal leukemia"
+  ],
+  "Bestatin (hydrochloride)": [
+    "Aminopeptidase N, leucine aminopeptidase, arginine aminopeptidase",
+    "Cell adhesion, immune response, angiogenesis",
+    "Acute non-lymphocytic leukemia, malignant lymphoma, bladder cancer"
+  ],
+  "Aprepitant": [
+    "Neurokinin 1 (NK1) receptor",
+    "Substance P signaling, nausea and vomiting pathways, central nervous system signaling",
+    "Prevention of acute and delayed chemotherapy-induced nausea and vomiting, prevention of postoperative nausea and vomiting"
+  ],
+  "(R)-Verapamil (hydrochloride)": [
+    "L-type calcium channels, P-glycoprotein",
+    "Calcium signaling, cardiac conduction, vascular smooth muscle contraction",
+    "Hypertension, angina pectoris, supraventricular tachycardia, atrial fibrillation"
+  ],
+  "Vemurafenib": [
+    "BRAF V600E kinase",
+    "MAPK/ERK signaling, cell proliferation, apoptosis",
+    "Late-stage melanoma, Erdheim-Chester disease, hairy cell leukemia"
+  ],
+  "c-Kit-IN-1": [
+    "c-Kit, PDGFR, FLT3",
+    "PI3K/AKT, MAPK/ERK, JAK/STAT",
+    "Gastrointestinal stromal tumor, Acute myeloid leukemia, Mastocytosis"
+  ],
+  "Lumateperone (tosylate)": [
+    "5-HT2A receptors, dopamine D2 receptors, serotonin transporter",
+    "Dopaminergic signaling, glutamatergic signaling, serotonergic signaling",
+    "Schizophrenia, bipolar depression"
+  ],
+  "Cepharanthine": [
+    "P-glycoprotein, SARS-CoV-2 papain-like protease",
+    "Apoptosis, autophagy, cell cycle regulation, NF-\u03baB signaling",
+    "Biliary cirrhosis, hepatic disorders, snake bites, protozoal infections"
+  ],
+  "Riluzole hydrochloride": [
+    "Glutamate receptors, voltage-dependent sodium channels",
+    "Excitatory neurotransmission, neuroinflammation, apoptosis",
+    "Amyotrophic lateral sclerosis"
+  ],
+  "Capmatinib": [
+    "MET, AXL, FLT3, KIT, PDGFR\u03b1/\u03b2, TRKA/B/C, DDR2, DDR1",
+    "PI3K/AKT, MAPK/ERK, JAK/STAT, PLC\u03b3/PKC",
+    "Non-small cell lung cancer with MET exon 14 skipping mutation"
+  ],
+  "Ribociclib": [
+    "CDK4, CDK6",
+    "PI3K/AKT, Rb, cell cycle progression",
+    "HR-positive, HER2-negative advanced or metastatic breast cancer"
+  ],
+  "Saquinavir": [
+    "HIV-1 protease",
+    "Cell signaling, apoptosis, cell cycle regulation, viral replication",
+    "HIV-1 infection, AIDS"
+  ],
+  "Gallic acid (hydrate)": [
+    "Estrogen receptors, COX-2, NF-\u03baB, p53, STAT3",
+    "Apoptosis, cell cycle regulation, inflammation, oxidative stress",
+    "Wound healing, antimicrobial, antiviral, gastrointestinal disorders"
+  ],
+  "Palmatine (chloride)": [
+    "COX-1, COX-2, STAT3, NF-\u03baB, PI3K/Akt",
+    "Inflammation, cell proliferation, apoptosis, angiogenesis",
+    "Diarrhea, dysentery, bacterial infections, intestinal infections"
+  ],
+  "Belzutifan": [
+    "HIF2\u03b1",
+    "Hypoxia-inducible factor signaling, cellular metabolism, angiogenesis",
+    "Von Hippel-Lindau disease-associated renal cell carcinoma, other advanced renal cell carcinomas"
+  ],
+  "Fingolimod (hydrochloride)": [
+    "S1P receptors",
+    "Immune cell circulation, lymphocyte recirculation, vascular integrity",
+    "Relapsing forms of multiple sclerosis, secondary progressive multiple sclerosis"
+  ],
+  "Bestatin": [
+    "Aminopeptidase N, leukotriene A4 hydrolase, arginyl aminopeptidase",
+    "Cell adhesion, immune response, inflammation",
+    "Acute nonlymphocytic leukemia, aplastic anemia, myelodysplastic syndrome"
+  ],
+  "Diphenhydramine": [
+    "Histamine H1 receptor",
+    "Sedation, anticholinergic, antiemetic pathways",
+    "Insomnia, allergic reactions, motion sickness, itching, extrapyramidal symptoms"
+  ],
+  "Pentoxifylline": [
+    "Phosphodiesterase, TNF-\u03b1, interleukin-1, interleukin-6",
+    "Inflammation, immune response, angiogenesis, apoptosis",
+    "Intermittent claudication, peripheral artery disease, cerebrovascular disorders"
+  ],
+  "Entecavir (monohydrate)": [
+    "HBV DNA polymerase",
+    "Nucleotide metabolism, viral replication, cellular immune response",
+    "Chronic hepatitis B, compensation liver disease, HIV co-infection with HBV"
+  ],
+  "Atazanavir (sulfate)": [
+    "HIV-1 protease",
+    "Proteolytic processing, viral maturation, cell signaling",
+    "Treatment of HIV-1 infection, HIV-1 infection in pediatric patients, HIV-1 infection in combination with other antiretroviral agents"
+  ],
+  "Belumosudil": [
+    "ROCK1, ROCK2",
+    "PI3K/Akt, MAPK/ERK, NF-\u03baB",
+    "Chronic graft-versus-host disease"
+  ],
+  "Auranofin": [
+    "Thioredoxin reductase, mitochondrial thioredoxin reductase",
+    "NF-\u03baB signaling, MAPK signaling, PI3K/AKT signaling",
+    "Rheumatoid arthritis"
+  ],
+  "Fluvoxamine (maleate)": [
+    "Serotonin transporter",
+    "Neurotransmitter signaling, synaptic plasticity, mood regulation",
+    "Obsessive-compulsive disorder, social anxiety disorder, major depressive disorder"
+  ],
+  "Malotilate": [
+    "Cytochrome P450 2C9, UDP-glucuronosyltransferase",
+    "Lipid metabolism, bile acid synthesis, inflammation",
+    "Hepatic disorders, liver protection, cirrhosis"
+  ],
+  "Selinexor": [
+    "XPO1",
+    "NF-\u03baB, p53, PI3K/AKT, STAT3",
+    "Multiple Myeloma, Diffuse Large B-Cell Lymphoma"
+  ],
+  "Rifaximin": [
+    "Bacterial RNA polymerase",
+    "Inflammatory cascade, gut motility pathways, intestinal barrier function",
+    "Hepatic encephalopathy, irritable bowel syndrome with diarrhea, travelers' diarrhea"
+  ],
+  "Bimiralisib": [
+    "PI3K, mTOR, AKT",
+    "Apoptosis, Cell cycle regulation, Angiogenesis",
+    "Peripheral T-cell lymphoma, Relapsed or refractory follicular lymphoma"
+  ],
+  "Rosiglitazone": [
+    "PPAR\u03b3",
+    "Insulin signaling, glucose metabolism, lipid metabolism",
+    "Type 2 diabetes mellitus"
+  ],
+  "Bortezomib": [
+    "26S proteasome",
+    "NF-\u03baB signaling, cell cycle regulation, apoptosis",
+    "Multiple myeloma, mantle cell lymphoma"
+  ],
+  "Medroxyprogesterone acetate": [
+    "Progesterone receptor",
+    "Endometrial growth regulation, Menstrual cycle modulation, Gonadotropin release inhibition",
+    "Contraception, Endometriosis, Abnormal uterine bleeding, Renal or breast cancer"
+  ],
+  "Allopurinol": [
+    "Xanthine oxidase",
+    "Purine metabolism, uric acid production, oxidative stress",
+    "Gout, high levels of uric acid, tumor lysis syndrome, recurrent calcium oxalate kidney stones"
+  ],
+  "Zileuton": [
+    "5-lipoxygenase",
+    "Leukotriene synthesis, inflammation, immune response",
+    "Asthma"
+  ],
+  "Glasdegib": [
+    "Hedgehog signaling pathway components, Smoothened",
+    "Cell proliferation and survival, apoptosis, stem cell signaling",
+    "Acute myeloid leukemia, myelodysplastic syndrome"
+  ],
+  "AZD-8055": [
+    "mTOR",
+    "PI3K/Akt, cell cycle regulation, apoptosis",
+    "None"
+  ],
+  "NVP-BHG712": [
+    "c-Met, Axl, DDR2",
+    "PI3K/AKT, MAPK/ERK, JAK/STAT",
+    "None"
+  ],
+  "Sinomenine": [
+    "COX-2, NF-\u03baB, TLR4, STAT3",
+    "Inflammation, immune response, apoptosis, cell proliferation",
+    "Rheumatoid arthritis, lupus, psoriasis, osteoarthritis"
+  ],
+  "Crizotinib (hydrochloride)": [
+    "MET, ALK, ROS1, RON",
+    "PI3K/AKT, MAPK/ERK, JAK/STAT, mTOR",
+    "Non-small cell lung cancer, ALK-positive metastatic non-small cell lung cancer, ROS1-positive metastatic non-small cell lung cancer"
+  ],
+  "Sulfisoxazole": [
+    "Dihydropteroate synthetase",
+    "Folate synthesis pathway, bacterial cell wall synthesis",
+    "Urinary tract infections, malaria, toxoplasmosis, meningitis, pneumonia, bronchitis"
+  ],
+  "Gemcitabine": [
+    "DNA synthetase, ribonucleotide reductase, DNA polymerase",
+    "Apoptosis, cell cycle arrest, nucleotide metabolism",
+    "Breast cancer, ovarian cancer, pancreatic cancer, non-small cell lung cancer"
+  ],
+  "Oxaprozin": [
+    "COX-1, COX-2",
+    "Prostaglandin synthesis, Inflammatory response, Pain perception",
+    "Osteoarthritis, Rheumatoid arthritis, Ankylosing spondylitis, Juvenile rheumatoid arthritis"
+  ],
+  "Tucatinib": [
+    "HER2",
+    "PI3K/AKT, MAPK/ERK, cell cycle regulation",
+    "Breast cancer"
+  ],
+  "Tirabrutinib": [
+    "Bruton's tyrosine kinase (BTK)",
+    "B-cell receptor signaling, NF-\u03baB signaling, PI3K/AKT signaling",
+    "Mantle cell lymphoma, Waldenstr\u00f6m's macroglobulinemia"
+  ],
+  "Terfenadine": [
+    "Histamine H1 receptors",
+    "Inflammation mediation, mast cell stabilization, vascular permeability regulation",
+    "Allergic rhinitis, urticaria"
+  ],
+  "EX229": [
+    "CDK4, CDK6",
+    "Cell cycle progression, DNA replication, Retinoblastoma protein regulation",
+    "Breast cancer, HR-positive advanced or metastatic breast cancer"
+  ],
+  "Epirubicin (hydrochloride)": [
+    "DNA",
+    "Apoptosis, cell cycle arrest, DNA replication inhibition",
+    "Breast cancer, ovarian cancer, lung cancer, gastric cancer, Hodgkin's lymphoma, non-Hodgkin's lymphoma"
+  ],
+  "Capivasertib": [
+    "AKT1, AKT2, AKT3",
+    "PI3K/AKT, mTOR, NF-\u03baB",
+    "Advanced or metastatic breast cancer, castration-resistant prostate cancer"
+  ],
+  "ERK5-IN-2": [
+    "ERK5",
+    "Cell proliferation, cell survival, angiogenesis",
+    "None"
+  ],
+  "Pralsetinib": [
+    "RET kinase",
+    "MAPK, PI3K/AKT, JAK/STAT",
+    "Non-small cell lung cancer, medullary thyroid cancer"
+  ],
+  "Fedratinib (hydrochloride hydrate)": [
+    "Janus kinase 2 (JAK2)",
+    "JAK-STAT signaling, cell proliferation, apoptosis",
+    "Intermediate-2 or high-risk primary or secondary myelofibrosis, myeloproliferative neoplasm-associated myelofibrosis"
+  ],
+  "Fulvestrant": [
+    "Estrogen receptor",
+    "PI3K/AKT, cell cycle regulation, apoptosis",
+    "Advanced breast cancer, metastatic breast cancer, hormone receptor-positive breast cancer"
+  ],
+  "crizotinib": [
+    "MET, ALK, ROS1",
+    "PI3K/AKT, MAPK/ERK, JAK/STAT",
+    "Non-small cell lung cancer, ROS1-positive non-small cell lung cancer"
+  ],
+  "MK-3903": [
+    "FGFR1, FGFR2, FGFR3",
+    "MAPK signaling, PI3K/AKT signaling, JAK/STAT signaling",
+    "Hormone receptor-positive metastatic breast cancer, perioperative treatment of non-small cell lung cancer"
+  ],
+  "Futibatinib": [
+    "FGFR1, FGFR2, FGFR3, FGFR4",
+    "MAPK/ERK, PI3K/AKT, JAK/STAT",
+    "Cholangiocarcinoma, other FGFR-related cancers"
+  ],
+  "Lipoic acid": [
+    "Pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, dihydrolipoamide succinyltransferase",
+    "Insulin signaling pathway, NF-\u03baB pathway, PI3K/Akt pathway",
+    "Diabetic neuropathy, peripheral neuropathy"
+  ],
+  "L-Thyroxine (sodium salt pentahydrate)": [
+    "Thyroid hormone receptor alpha, Thyroid hormone receptor beta",
+    "Metabolic pathways, Cellular growth and differentiation pathways, Developmental pathways",
+    "Hypothyroidism, Pituitary thyroid-stimulating hormone (TSH) suppression, Thyroid cancer treatment"
+  ],
+  "BI-78D3": [
+    "CD137, OX40",
+    "NF-\u03baB signaling, PI3K/AKT signaling, MAPK/ERK signaling",
+    "None"
+  ],
+  "CP21R7": [
+    "CD38, CD138",
+    "NF-\u03baB, JAK/STAT, PI3K/AKT",
+    "Multiple myeloma, Light-chain amyloidosis"
+  ],
+  "4EGI-1": [
+    "eIF4E, eIF4G",
+    "PI3K/AKT, MAPK/ERK, mTOR",
+    "None"
+  ],
+  "Mitoxantrone (dihydrochloride)": [
+    "Topoisomerase II, DNA",
+    "Apoptosis, Cell cycle arrest, DNA damage response",
+    "Multiple sclerosis, Acute myeloid leukemia, Prostate cancer"
+  ],
+  "Baicalin": [
+    "COX-2, NF-\u03baB, PI3K, Akt, MAPK",
+    "Inflammation, apoptosis, cell cycle regulation, immune response",
+    "Upper respiratory tract infections, fever, influenza, hepatitis"
+  ],
+  "Indacaterol (maleate)": [
+    "Beta-2 adrenergic receptors",
+    "Cyclic adenosine monophosphate signaling, bronchodilation, smooth muscle relaxation",
+    "Chronic obstructive pulmonary disease, bronchospasm"
+  ],
+  "Belinostat": [
+    "HDAC1, HDAC2, HDAC3, HDAC6",
+    "Apoptosis, cell cycle arrest, angiogenesis inhibition",
+    "Peripheral T-cell lymphoma"
+  ],
+  "Lonafarnib": [
+    "farnesyltransferase",
+    "Ras signaling, cell cycle regulation, apoptosis",
+    "Hepatocellular carcinoma, progeroid laminopathies"
+  ],
+  "Berbamine": [
+    "Bcl-2, Bcl-xL, Mcl-1, STAT3, NF-\u03baB",
+    "Apoptosis, cell cycle regulation, inflammation",
+    "Leukemia, lymphoma, solid tumors"
+  ],
+  "Rucaparib (phosphate)": [
+    "PARP1, PARP2",
+    "DNA repair, cell cycle arrest, apoptosis",
+    "Ovarian cancer, fallopian tube cancer, peritoneal cancer"
+  ],
+  "Brimonidine": [
+    "Alpha-2 adrenergic receptors",
+    "Sympathetic nervous system regulation, aqueous humor dynamics, intraocular pressure reduction",
+    "Glaucoma, ocular hypertension, facial erythema in rosacea"
+  ],
+  "Voriconazole": [
+    "14\u03b1-demethylase",
+    "Ergosterol biosynthesis, cell membrane integrity",
+    "Invasive aspergillosis, candidemia, esophageal candidiasis, oropharyngeal candidiasis, disseminated candidiasis, coccidioidomycosis"
+  ],
+  "Azithromycin (hydrate)": [
+    "50S ribosomal subunit",
+    "Protein synthesis, cell growth and division, inflammation",
+    "Bacterial infections, community-acquired pneumonia, pelvic inflammatory disease, strep throat, sinusitis"
+  ],
+  "Sacubitril/Valsartan": [
+    "Neprilysin, Angiotensin II receptor type 1",
+    "Renin-angiotensin-aldosterone system, Sympathetic nervous system, Natriuretic peptide system",
+    "Heart failure with reduced ejection fraction"
+  ],
+  "Vandetanib": [
+    "RET, EGFR, VEGFR, c-KIT",
+    "MAPK, PI3K/AKT, NF-\u03baB, VEGF signaling",
+    "Late-stage medullary thyroid cancer"
+  ],
+  "Triamcinolone": [
+    "Glucocorticoid receptor",
+    "Inflammation, immune response, apoptosis, cell growth",
+    "Allergic rhinitis, asthma, atopic dermatitis, psoriasis, rheumatoid arthritis"
+  ],
+  "Pyridoxine (hydrochloride)": [
+    "Pyridoxal phosphate, pyridoxal kinase, glycogen phosphorylase, pyridoxine phosphate oxidase",
+    "Glycogenolysis, gluconeogenesis, neurotransmitter synthesis, one-carbon metabolism",
+    "Dietary supplement for pyridoxine deficiency, pyridoxine-dependent epilepsy, homocystinuria, neuropathy"
+  ],
+  "Fluvoxamine": [
+    "Sigma-1 receptor, serotonin transporter",
+    "Neurotransmission, synaptic plasticity, neuroinflammation",
+    "Obsessive-compulsive disorder, social anxiety disorder, major depressive disorder"
+  ],
+  "Methylprednisolone succinate": [
+    "Glucocorticoid receptor",
+    "Inflammation, immune response, apoptosis, cell growth",
+    "Allergic reactions, asthma, rheumatoid arthritis, blood disorders, certain cancers, respiratory distress syndrome, shock"
+  ],
+  "Alpelisib": [
+    "Phosphatidylinositol 3-kinase (PI3K) p110\u03b1 subunit",
+    "PI3K/AKT/mTOR, cell cycle regulation, apoptosis",
+    "HR-positive, HER2-negative, PIK3CA-mutated advanced or metastatic breast cancer"
+  ],
+  "Dabrafenib": [
+    "BRAF V600 kinase",
+    "MAPK/ERK signaling, cell proliferation, apoptosis",
+    "Metastatic melanoma, non-small cell lung cancer, thyroid cancer, anaplastic thyroid cancer"
+  ],
+  "Volasertib": [
+    "PLK1",
+    "Cell cycle progression, apoptosis, spindle assembly",
+    "Acute myeloid leukemia"
+  ],
+  "Ferulic acid": [
+    "Estrogen receptors, COX-2, NF-\u03baB, iNOS",
+    "Inflammation, antioxidant, cell cycle regulation, apoptosis",
+    "Cancer, cardiovascular disease, neurodegenerative disorders, diabetes"
+  ],
+  "Chlorhexidine (diacetate)": [
+    "Bacterial cell membrane",
+    "Cell wall synthesis, membrane disruption, microbial biofilm formation",
+    "Skin disinfection, surgical scrub, mucous membrane disinfection, perioperative skin preparation"
+  ],
+  "Quinestrol": [
+    "Estrogen receptors",
+    "Cell growth and differentiation, hormone regulation, reproductive system modulation",
+    "Treatment of menopausal symptoms, menstrual disorders, and hormone replacement therapy"
+  ],
+  "Esmolol (hydrochloride)": [
+    "Beta-1 adrenergic receptors",
+    "Adrenergic signaling, heart rate regulation, blood pressure control",
+    "Supraventricular tachycardia, perioperative tachycardia and hypertension, sinus tachycardia"
+  ],
+  "Rimonabant": [
+    "CB1 receptors",
+    "Lipid metabolism, glucose homeostasis, appetite regulation",
+    "Obesity, smoking cessation"
+  ],
+  "Asciminib": [
+    "ABL1, BCR-ABL1",
+    "BCR-ABL signaling, cell proliferation, apoptosis",
+    "Chronic myeloid leukemia, Philadelphia chromosome-positive acute lymphoblastic leukemia"
+  ],
+  "Allantoin": [
+    "Keratin, DNA, cell membranes",
+    "Wound healing, cell proliferation, tissue repair",
+    "Wound care, skin ulcers, dermatitis, oral mucositis"
+  ],
+  "Pemigatinib": [
+    "FGFR1, FGFR2, FGFR3",
+    "MAPK/ERK, PI3K/AKT, JAK/STAT",
+    "Cholangiocarcinoma, Myeloid/lymphoid neoplasms"
+  ],
+  "Ixazomib citrate": [
+    "Proteasome",
+    "NF-\u03baB signaling, cell cycle regulation, apoptosis",
+    "Multiple myeloma"
+  ],
+  "TAK-733": [
+    "MEK1, MEK2",
+    "MAPK/ERK pathway, PI3K/AKT pathway, cell cycle regulation",
+    "None"
+  ],
+  "XRK3F2": [
+    "PI3K, mTOR, AKT",
+    "Apoptosis, cell cycle regulation, angiogenesis",
+    "Breast cancer, non-small cell lung cancer, renal cell carcinoma"
+  ],
+  "Hydroxyfasudil": [
+    "Rho kinase, protein kinase C",
+    "Rho kinase pathway, actin cytoskeleton signaling, smooth muscle contraction",
+    "Cerebral vasospasm, acute ischemic stroke, angina pectoris"
+  ],
+  "Acetazolamide": [
+    "Carbonic anhydrase",
+    "Bicarbonate reabsorption, aqueous humor production, cerebrospinal fluid production",
+    "Glaucoma, epilepsy, edema, altitude sickness"
+  ],
+  "18\u03b2-Glycyrrhetinic acid": [
+    "11\u03b2-Hydroxysteroid dehydrogenase type 1, glucocorticoid receptors, Toll-like receptor 4",
+    "NF-\u03baB signaling, PI3K/Akt pathway, MAPK/ERK pathway",
+    "Gastric ulcers, oral mucositis, eczema, dermatitis"
+  ],
+  "Ornidazole": [
+    "DNA, proteins, and cell membranes",
+    "Apoptosis, cell cycle arrest, and DNA damage response",
+    "Trichomoniasis, amoebiasis, giardiasis, and anaerobic bacterial infections"
+  ],
+  "Anastrozole": [
+    "Aromatase",
+    "Estrogen receptor signaling, cell cycle regulation, apoptosis",
+    "Breast cancer in postmenopausal women, including first-line treatment and treatment after tamoxifen"
+  ],
+  "Hesperidin": [
+    "VEGFR, COX-2, NF-\u03baB, PI3K/Akt",
+    "Apoptosis, angiogenesis, inflammation, cell cycle regulation",
+    "Hypertension, hyperlipidemia, cardiovascular disease, osteoporosis"
+  ],
+  "Neratinib": [
+    "HER2, HER3, HER4, EGFR",
+    "PI3K/AKT, MAPK/ERK, cell cycle regulation",
+    "Extended adjuvant treatment of early-stage HER2-positive breast cancer, metastatic HER2-positive breast cancer"
+  ],
+  "Benproperine (phosphate)": [
+    "Muscarinic acetylcholine receptors",
+    "Cholinergic neurotransmission, smooth muscle contraction",
+    "Chronic bronchitis, bronchial asthma, respiratory tract infections"
+  ],
+  "Darinaparsin": [
+    "SIRT1, SIRT2, thioredoxin reductase, glutathione S-transferase",
+    "Apoptosis, cell cycle regulation, mitochondrial function, oxidative stress response",
+    "None, currently no approved indications"
+  ],
+  "Aliskiren": [
+    "Renin",
+    "Renin-angiotensin-aldosterone system, blood pressure regulation, fluid balance",
+    "Hypertension"
+  ],
+  "Bosentan (hydrate)": [
+    "Endothelin receptors (ETA, ETB)",
+    "Pulmonary vascular remodeling, endothelin signaling, vascular smooth muscle contraction",
+    "Pulmonary arterial hypertension, digital ulcers in systemic sclerosis"
+  ],
+  "Abemaciclib": [
+    "CDK4, CDK6",
+    "Cell cycle progression, DNA replication, Rb signaling",
+    "HR-positive, HER2-negative advanced or metastatic breast cancer, HR-positive breast cancer"
+  ],
+  "Cabozantinib (S-malate)": [
+    "MET, VEGFR2, RET, KIT, FLT3, AXL",
+    "Angiogenesis, Met signaling, MAPK/ERK signaling, PI3K/AKT signaling",
+    "Renal cell carcinoma, Hepatocellular carcinoma, Medullary thyroid cancer"
+  ],
+  "Lactate (calcium)": [
+    "Calcium channels, lactate receptors, GPR81",
+    "Glycolysis, gluconeogenesis, cellular respiration",
+    "Hyperkalemia, hypocalcemia, cardiac arrest"
+  ],
+  "Pemetrexed": [
+    "Thymidylate synthase, dihydrofolate reductase, glycinamide ribonucleotide formyltransferase",
+    "DNA synthesis, folate metabolism, cell cycle regulation",
+    "Non-small cell lung cancer, malignant pleural mesothelioma"
+  ],
+  "Ranolazine": [
+    "Sodium channels, potassium channels, late sodium current (INa)",
+    "Cardiac myocyte function, sodium homeostasis, action potential duration",
+    "Angina pectoris, chronic angina, coronary artery disease"
+  ],
+  "Pentagastrin": [
+    "Gastrin receptors",
+    "Gastric acid secretion, gastrointestinal motility, pancreatic secretion",
+    "Zollinger-Ellison syndrome, gastric acid hypersecretion"
+  ],
+  "Penfluridol": [
+    "Dopamine D2 and D3 receptors, serotonin 5-HT2A receptors",
+    "Dopaminergic, serotonergic, and neurochemical signaling pathways",
+    "Schizophrenia, anxiety, and other psychotic disorders"
+  ],
+  "Encorafenib": [
+    "BRAF V600E kinase",
+    "MAPK/ERK signaling, PI3K/AKT signaling, cell cycle regulation",
+    "BRAF V600E mutation-positive metastatic melanoma, BRAF V600E mutation-positive unresectable or metastatic colorectal cancer"
+  ],
+  "Artesunate": [
+    "PfATP6, SERCA",
+    "Apoptosis, Autophagy, Cell cycle arrest, Endoplasmic reticulum stress",
+    "Malaria, Severe malaria, Cerebral malaria"
+  ],
+  "Larotrectinib sulfate": [
+    "NTRK1, NTRK2, NTRK3",
+    "MAPK, PI3K/AKT, cell cycle regulation",
+    "Neurotrophic receptor tyrosine kinase fusion-positive solid tumors, infantile fibrosarcoma, congenital mesoblastic nephroma, secretory breast carcinoma"
+  ],
+  "Dimethyl fumarate": [
+    "Nrf2, NF-\u03baB, STAT1, STAT3",
+    "Oxidative stress response, inflammation, immune response",
+    "Relapsing-remitting multiple sclerosis, psoriasis, moderate to severe plaque psoriasis"
+  ],
+  "Regorafenib": [
+    "VEGFR1, VEGFR2, VEGFR3, PDGFR, FGFR, c-Kit, RET, RAF",
+    "Angiogenesis, tumor growth and metastasis, cell proliferation and survival",
+    "Colorectal cancer, gastrointestinal stromal tumor, hepatocellular carcinoma"
+  ],
+  "Minodronic acid": [
+    "Cathepsin K, RANKL, osteoclasts",
+    "Bone resorption, osteoclast formation, calcium metabolism",
+    "Osteoporosis, bone metastases, Paget's disease"
+  ],
+  "Cloxacillin (sodium)": [
+    "Penicillin-binding proteins",
+    "Bacterial cell wall synthesis, peptidoglycan layer formation",
+    "Skin and soft tissue infections, respiratory tract infections, osteomyelitis"
+  ],
+  "Menadione": [
+    "Vitamin K2, Vitamin K3",
+    "Blood coagulation, bone metabolism",
+    "Vitamin K deficiency, bleeding diathesis"
+  ],
+  "Ralimetinib dimesylate": [
+    "p38 MAPK",
+    "Inflammation signaling, Cell proliferation, Apoptosis regulation",
+    "Moderate to severe rheumatoid arthritis, Psoriatic arthritis, Ankylosing spondylitis"
+  ],
+  "Ritonavir": [
+    "CYP3A4, HIV-1 protease",
+    "Cell signaling, lipid metabolism, proteolysis",
+    "HIV-1 infection, AIDS"
+  ],
+  "Fenofibrate": [
+    "Peroxisome proliferator-activated receptor alpha (PPAR\u03b1)",
+    "Lipid metabolism, glucose homeostasis, inflammation",
+    "Hypertriglyceridemia, mixed dyslipidemia, primary hypercholesterolemia"
+  ],
+  "Tirabrutinib (hydrochloride)": [
+    "Bruton's tyrosine kinase (BTK)",
+    "B-cell receptor signaling, NF-\u03baB signaling, PI3K/AKT signaling",
+    "Mantle cell lymphoma, chronic lymphocytic leukemia, Waldenstr\u00f6m's macroglobulinemia"
+  ],
+  "Captopril": [
+    "Angiotensin-converting enzyme (ACE)",
+    "Renin-angiotensin-aldosterone system, blood pressure regulation, electrolyte balance",
+    "Hypertension, heart failure, diabetic nephropathy, left ventricular dysfunction"
+  ],
+  "Docetaxel": [
+    "Microtubules, tubulin",
+    "Cell cycle arrest, apoptosis, angiogenesis inhibition",
+    "Breast cancer, non-small cell lung cancer, prostate cancer, gastric cancer, head and neck cancer"
+  ],
+  "BAY1125976": [
+    "BRAF, MEK1, MEK2",
+    "MAPK/ERK signaling, cell cycle regulation, apoptosis",
+    "Metastatic melanoma, colorectal cancer, anaplastic thyroid cancer"
+  ],
+  "Celecoxib": [
+    "COX-2",
+    "Prostaglandin synthesis, Pain signaling, Inflammatory response",
+    "Osteoarthritis, Rheumatoid arthritis, Ankylosing spondylitis, Acute pain, Primary dysmenorrhea"
+  ],
+  "Clobetasol propionate": [
+    "Glucocorticoid receptor",
+    "Inflammation, immune response, apoptosis",
+    "Psoriasis, eczema, dermatitis"
+  ],
+  "Dapagliflozin ((2S)-1,2-propanediol, hydrate)": [
+    "Sodium-glucose cotransporter 2 (SGLT2)",
+    "Glucose reabsorption, insulin sensitivity, glucagon secretion, blood pressure regulation",
+    "Type 2 diabetes, heart failure, chronic kidney disease"
+  ],
+  "Pitavastatin (Calcium)": [
+    "HMG-CoA reductase",
+    "Cholesterol biosynthesis, lipoprotein metabolism, inflammation",
+    "Hyperlipidemia, mixed dyslipidemia, primary dysbetalipoproteinemia"
+  ],
+  "Panobinostat": [
+    "HDAC1, HDAC2, HDAC3, HDAC4, HDAC5, HDAC6, HDAC7, HDAC8, HDAC9, HDAC10, HDAC11",
+    "Cell cycle regulation, Apoptosis, Autophagy, Angiogenesis, Inflammation",
+    "Multiple myeloma"
+  ],
+  "Orlistat": [
+    "Lipases (gastric and pancreatic)",
+    "Lipid absorption, fatty acid synthesis, glucose metabolism",
+    "Obesity, weight loss, weight management"
+  ],
+  "Hexylresorcinol": [
+    "Protein kinase C, topoisomerase II, DNA",
+    "Apoptosis, cell cycle regulation, DNA replication",
+    "Antiseptic, anthelmintic, antiprotozoal"
+  ]
+}
